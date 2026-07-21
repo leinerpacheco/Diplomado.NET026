@@ -1,0 +1,14 @@
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\bin\Debug\net10.0\ejercicio-01-luhn.exe
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\bin\Debug\net10.0\ejercicio-01-luhn.deps.json
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\bin\Debug\net10.0\ejercicio-01-luhn.runtimeconfig.json
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\bin\Debug\net10.0\ejercicio-01-luhn.dll
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\bin\Debug\net10.0\ejercicio-01-luhn.pdb
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\obj\Debug\net10.0\ejercicio-01-luhn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\obj\Debug\net10.0\ejercicio-01-luhn.AssemblyInfoInputs.cache
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\obj\Debug\net10.0\ejercicio-01-luhn.AssemblyInfo.cs
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\obj\Debug\net10.0\ejercicio-01-luhn.csproj.CoreCompileInputs.cache
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\obj\Debug\net10.0\ejercicio-01-luhn.dll
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\obj\Debug\net10.0\refint\ejercicio-01-luhn.dll
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\obj\Debug\net10.0\ejercicio-01-luhn.pdb
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\obj\Debug\net10.0\ejercicio-01-luhn.genruntimeconfig.cache
+C:\Users\User\Diplomado.NET\ejercicio-01-luhn\obj\Debug\net10.0\ref\ejercicio-01-luhn.dll

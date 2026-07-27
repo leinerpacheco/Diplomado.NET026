@@ -1,0 +1,14 @@
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\bin\Debug\net10.0\ejercicio-02-poo.exe
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\bin\Debug\net10.0\ejercicio-02-poo.deps.json
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\bin\Debug\net10.0\ejercicio-02-poo.runtimeconfig.json
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\bin\Debug\net10.0\ejercicio-02-poo.dll
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\bin\Debug\net10.0\ejercicio-02-poo.pdb
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\obj\Debug\net10.0\ejercicio-02-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\obj\Debug\net10.0\ejercicio-02-poo.AssemblyInfoInputs.cache
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\obj\Debug\net10.0\ejercicio-02-poo.AssemblyInfo.cs
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\obj\Debug\net10.0\ejercicio-02-poo.csproj.CoreCompileInputs.cache
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\obj\Debug\net10.0\ejercicio-02-poo.dll
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\obj\Debug\net10.0\refint\ejercicio-02-poo.dll
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\obj\Debug\net10.0\ejercicio-02-poo.pdb
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\obj\Debug\net10.0\ejercicio-02-poo.genruntimeconfig.cache
+C:\Users\User\Diplomado.NET\ejercicio-02-poo\obj\Debug\net10.0\ref\ejercicio-02-poo.dll

@@ -1,0 +1,57 @@
+[
+  {
+    "Tipo": "Tarea",
+    "Id": 1,
+    "Titulo": "Actividad Redes y Telecomunicaciones",
+    "Descripcion": "Realizar el laboratorio practico, incluyendo la configuracion basica de dispositivos de red.",
+    "Prioridad": 1,
+    "NombreCategoria": "Actividades",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T21:49:52.2469157-05:00",
+    "FechaVencimiento": null
+  },
+  {
+    "Tipo": "TareaConVencimiento",
+    "Id": 2,
+    "Titulo": "Presentar Informe Financiero Mensual  ",
+    "Descripcion": "Consolidar los ingresos, egresos y resultados financieros del mes",
+    "Prioridad": 3,
+    "NombreCategoria": "Finanzas",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T21:58:47.2922037-05:00",
+    "FechaVencimiento": "2026-07-28T00:00:00"
+  },
+  {
+    "Tipo": "Tarea",
+    "Id": 3,
+    "Titulo": "Actualizar Servidor De Aplicaciones ",
+    "Descripcion": "Instalar los ultimos parches de seguridad",
+    "Prioridad": 2,
+    "NombreCategoria": "Tecnologica",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T22:06:40.2347202-05:00",
+    "FechaVencimiento": null
+  },
+  {
+    "Tipo": "Tarea",
+    "Id": 4,
+    "Titulo": "Actualizar Base De Datos Empleados",
+    "Descripcion": "Registrar la informacion del personal nuevo ",
+    "Prioridad": 0,
+    "NombreCategoria": "Tecnologica",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T22:42:19.2397633-05:00",
+    "FechaVencimiento": null
+  },
+  {
+    "Tipo": "TareaConVencimiento",
+    "Id": 5,
+    "Titulo": "Programar Capacitacion De Seguridad",
+    "Descripcion": "Capacitacion sobre buenas practicas de ciberseguridad ",
+    "Prioridad": 0,
+    "NombreCategoria": "Capacitacion ",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T22:48:00.4014599-05:00",
+    "FechaVencimiento": "2026-08-02T00:00:00"
+  }
+]
